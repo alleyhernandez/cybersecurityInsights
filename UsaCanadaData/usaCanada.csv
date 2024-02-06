@@ -1,0 +1,121 @@
+year,country,state,crime,victimcount,lossamount,population
+2021,United States,Alabama,Phishing,200,244668,5049846.00
+2021,United States,Alaska,Phishing,170,20580,734182.00
+2021,United States,Arizona,Phishing,476,807443,7264877.00
+2021,United States,Arkansas,Phishing,150,113931,3028122.00
+2021,United States,California,Phishing,"2,942",12884518,39142991.00
+2021,United States,Colorado,Phishing,633,1186830,5811297.00
+2021,United States,Connecticut,Phishing,218,510800,3623355.00
+2021,United States,Delaware,Phishing,65,26636,1004807.00
+2021,United States,Florida,Phishing,1483,5598867,21828069.00
+2021,United States,Georgia,Phishing,711,1102633,10788029.00
+2021,United States,Hawaii,Phishing,68,6343,1447154.00
+2021,United States,Idaho,Phishing,90,14006,1904314.00
+2021,United States,Illinois,Phishing,839,822094,12686469.00
+2021,United States,Indiana,Phishing,329,169345,6813532.00
+2021,United States,Iowa,Phishing,113,148993,3197689.00
+2021,United States,Kansas,Phishing,118,73949,2937922.00
+2021,United States,Kentucky,Phishing,159,177659,4506589.00
+2021,United States,Louisiana,Phishing,160,118078,4627098.00
+2021,United States,Maine,Phishing,88,22225,1377238.00
+2021,United States,Maryland,Phishing,425,760100,6174610.00
+2021,United States,Massachusetts,Phishing,395,816558,6989690.00
+2021,United States,Michigan,Phishing,507,384842,10037504.00
+2021,United States,Minnesota,Phishing,310,244502,5711471.00
+2021,United States,Mississippi,Phishing,87,213410,2949586.00
+2021,United States,Missouri,Phishing,297,368601,6169823.00
+2021,United States,Montana,Phishing,46,176785,1106227.00
+2021,United States,Nebraska,Phishing,77,8186,1963554.00
+2021,United States,Nevada,Phishing,320,398035,3146402.00
+2021,United States,New Hampshire,Phishing,83,31094,1387505.00
+2021,United States,New Jersey,Phishing,666,730739,9267961.00
+2021,United States,New Mexico,Phishing,141,324201,2116677.00
+2021,United States,New York,Phishing,1566,3566851,19857492.00
+2021,United States,North Carolina,Phishing,493,273714,10565885.00
+2021,United States,North Dakota,Phishing,29,9513,777934.00
+2021,United States,Ohio,Phishing,577,558160,11764342.00
+2021,United States,Oklahoma,Phishing,191,337441,3991225.00
+2021,United States,Oregon,Phishing,294,179491,4256301.00
+2021,United States,Pennsylvania,Phishing,871,593237,13012059.00
+2021,United States,Rhode Island,Phishing,49,1496,1096985.00
+2021,United States,South Carolina,Phishing,270,403047,5193266.00
+2021,United States,South Dakota,Phishing,39,7423,896164.00
+2021,United States,Tennessee,Phishing,438,671637,6968351.00
+2021,United States,Texas,Phishing,1421,1919034,29558864.00
+2021,United States,Utah,Phishing,213,688706,3339113.00
+2021,United States,Vermont,Phishing,67,179567,646972.00
+2021,United States,Virginia,Phishing,596,429389,8657365.00
+2021,United States,Washington,Phishing,586,1285870,7740745.00
+2021,United States,West Virginia,Phishing,85,9716,1785526.00
+2021,United States,Wisconsin,Phishing,1032,500395,5880101.00
+2021,United States,Wyoming,Phishing,29,15761,579483.00
+2021,Canada,Alberta,Phishing,181,0,4262635.00
+2021,Canada,British Columbia,Phishing,233,0,5000879.00
+2021,Canada,Manitoba,Phishing,69,0,1342153.00
+2021,Canada,New Brunswick,Phishing,20,0,775610.00
+2021,Canada,Newfoundland And Labrador,Phishing,9,0,510550.00
+2021,Canada,Nova Scotia,Phishing,30,0,969383.00
+2021,Canada,Ontario,Phishing,458,0,14223942.00
+2021,Canada,Prince Edward Island,Phishing,2,0,154331.00
+2021,Canada,Quebec,Phishing,274,0,8501833.00
+2021,Canada,Saskatchewan,Phishing,29,0,1132505.00
+2022,United States,Alabama,Phishing,152,59062,5074296
+2022,United States,Alaska,Phishing,70,64942,733583
+2022,United States,Arizona,Phishing,395,692542,7359197
+2022,United States,Arkansas,Phishing,111,2430349,3045637
+2022,United States,California,Phishing,"2,041",14628440,39029342
+2022,United States,Colorado,Phishing,405,457985,5839926
+2022,United States,Connecticut,Phishing,147,940808,3626205
+2022,United States,Delaware,Phishing,41,1394,1018396
+2022,United States,Florida,Phishing,"1,218",3710314,22244823
+2022,United States,Georgia,Phishing,454,603595,10912876
+2022,United States,Hawaii,Phishing,63,326882,1440196
+2022,United States,Idaho,Phishing,52,18683,1939033
+2022,United States,Illinois,Phishing,706,932426,12582032
+2022,United States,Indiana,Phishing,273,114509,6833037
+2022,United States,Iowa,Phishing,82,36705,3200517
+2022,United States,Kansas,Phishing,70,8619,2937150
+2022,United States,Kentucky,Phishing,121,879726,4512310
+2022,United States,Louisiana,Phishing,117,1032533,4590241
+2022,United States,Maine,Phishing,50,5276,1385340
+2022,United States,Maryland,Phishing,336,114515,6164660
+2022,United States,Massachusetts,Phishing,328,668444,6981974
+2022,United States,Michigan,Phishing,471,401754,10034113
+2022,United States,Minnesota,Phishing,227,285766,5717184
+2022,United States,Mississippi,Phishing,60,36624,2940057
+2022,United States,Missouri,Phishing,327,207208,6177957
+2022,United States,Montana,Phishing,37,353293,1122867
+2022,United States,Nebraska,Phishing,82,176417,1967923
+2022,United States,Nevada,Phishing,427,1178309,3177772
+2022,United States,New Hampshire,Phishing,66,659457,1395231
+2022,United States,New Jersey,Phishing,570,2852334,9261699
+2022,United States,New Mexico,Phishing,108,58737,2113344
+2022,United States,New York,Phishing,"1,050",3428351,19677151
+2022,United States,North Carolina,Phishing,365,1484403,10698973
+2022,United States,North Dakota,Phishing,23,186067,779261
+2022,United States,Ohio,Phishing,434,689640,11756058
+2022,United States,Oklahoma,Phishing,125,211486,4019800
+2022,United States,Oregon,Phishing,233,220553,4240137
+2022,United States,Pennsylvania,Phishing,506,753847,12972008
+2022,United States,Rhode Island,Phishing,47,51531,1093734
+2022,United States,South Carolina,Phishing,194,70343,5282634
+2022,United States,South Dakota,Phishing,22,48166,909824
+2022,United States,Tennessee,Phishing,296,279475,7051339
+2022,United States,Texas,Phishing,"1,053",1136376,30029572
+2022,United States,Utah,Phishing,166,959926,3380800
+2022,United States,Vermont,Phishing,42,37300,647064
+2022,United States,Virginia,Phishing,538,431705,8683619
+2022,United States,Washington,Phishing,409,833521,7785786
+2022,United States,West Virginia,Phishing,59,112367,1775156
+2022,United States,Wisconsin,Phishing,1285,494753,5892539
+2022,United States,Wyoming,Phishing,28,85063,581381
+2022,Canada,Alberta,Phishing,272,0,"4,601,314"
+2022,Canada,British Columbia,Phishing,365,0,"5,368,266"
+2022,Canada,Manitoba,Phishing,61,0,"1,420,228"
+2022,Canada,New Brunswick,Phishing,40,0,"820,786"
+2022,Canada,Newfoundland And Labrador,Phishing,23,0,"528,818"
+2022,Canada,Nova Scotia,Phishing,43,0,"1,030,953"
+2022,Canada,Ontario,Phishing,810,0,"15,262,660"
+2022,Canada,Prince Edward Island,Phishing,12,0,"172,707"
+2022,Canada,Quebec,Phishing,553,0,"8,751,352"
+2022,Canada,Saskatchewan,Phishing,51,0,"1,205,119"
