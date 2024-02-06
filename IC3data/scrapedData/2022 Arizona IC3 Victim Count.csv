@@ -1,0 +1,31 @@
+,Crime Type,Victim Count
+0,Advanced Fee,306
+1,Malware,17
+2,BEC,468
+3,NCDF,0
+4,Botnet,29
+5,NTOC,0
+6,Confidence/Romance,680
+7,No Lead Value,"1,442"
+8,Credit Card/Check Fraud,754
+9,Non-payment/Non-Delivery,"1,262"
+10,Crimes Against Children,74
+11,Other,252
+12,Data Breach,72
+13,Overpayment,203
+14,Employment,385
+15,Personal Data Breach,"1,494"
+16,Extortion,"1,018"
+17,Phishing,395
+18,Government Impersonation,346
+19,Ransomware,60
+20,Harassment/Stalking,333
+21,Real Estate,350
+22,IPR/Copyright and Counterfeit,36
+23,SIM Swap,38
+24,Identity Theft,633
+25,Spoofing,427
+26,Investment,618
+27,Tech Support,"1,259"
+28,Lottery/Sweepstakes/Inheritance,167
+29,Threats of Violence,63
