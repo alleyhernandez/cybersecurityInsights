@@ -1,0 +1,827 @@
+﻿continent,country,month,year,type
+Asia,Afghanistan,May,2018,Malware
+Asia,Afghanistan,April,2008,Man-in-the-Middle
+Asia,Afghanistan,August,2020,Malware
+Asia,Afghanistan,December,2020,APT
+Asia,Afghanistan,December,2012,DDoS
+Asia,Afghanistan,January,2021,DDoS
+Europe,Albania,April,2021,Malware
+Europe,Albania,September,2020,Phishing
+Oceania,Australia,January,2022,Man-in-the-Middle
+Oceania,Australia,July,2018,APT
+Oceania,Australia,May,2013,DoS
+Oceania,Australia,November,2018,DoS
+Oceania,Australia,October,2017,APT
+Oceania,Australia,January,2019,Phishing
+Oceania,Australia,October,2014,Man-in-the-Middle
+Oceania,Australia,December,2018,Espionage
+Oceania,Australia,December,2015,Malware
+Oceania,Australia,June,2019,SQL Injection
+Oceania,Australia,June,2020,APT
+Oceania,Australia,June,2022,Espionage
+Oceania,Australia,June,2022,Zero-Day Exploit
+Oceania,Australia,March,2021,APT
+Oceania,Australia,March,2010,Zero-Day Exploit
+Oceania,Australia,May,2021,Malware
+Oceania,Australia,May,2020,Phishing
+Oceania,Australia,May,2021,Phishing
+Oceania,Australia,October,2010,Espionage
+Oceania,Australia,October,2020,Phishing
+Oceania,Australia,September,2011,DDoS
+Europe,Austria,January,2020,APT
+Europe,Austria,January,2016,Phishing
+Asia,Azerbaijan,April,2020,DDoS
+Asia,Azerbaijan,March,2021,Espionage
+Asia,Azerbaijan,November,2011,Phishing
+Asia,Azerbaijan,October,2020,APT
+Asia,Bahrain,December,2019,Malware
+Asia,Bahrain,February,2021,APT
+Asia,Bahrain,March,2021,Espionage
+Asia,Bangladesh,November,2020,Malware
+Asia,Bangladesh,September,2018,Malware
+Europe,Belgium,February,2022,Malware
+Europe,Belgium,May,2008,APT
+Europe,Belgium,May,2021,Phishing
+Europe,Belgium,April,2021,Malware
+Europe,Belgium,May,2021,DDoS
+Europe,Belgium,September,2020,Phishing
+South America,Brazil,May,2021,Malware
+South America,Brazil,May,2021,Phishing
+South America,Brazil,October,2016,Phishing
+Asia,Brunei,May,2020,Phishing
+Europe,Bulgaria,January,2019,DDoS
+Europe,Bulgaria,April,2021,Malware
+Europe,Bulgaria,September,2020,Phishing
+Asia,Cambodia,December,2019,Malware
+Asia,Cambodia,July,2018,DoS
+Asia,Cambodia,September,2017,Malware
+North America,Canada,December,2018,Espionage
+North America,Canada,February,2015,Malware
+North America,Canada,January,2011,APT
+North America,Canada,January,2022,Phishing
+North America,Canada,January,2019,SQL Injection
+North America,Canada,July,2014,Espionage
+North America,Canada,July,2020,Phishing
+North America,Canada,June,2015,DoS
+North America,Canada,March,2009,Espionage
+North America,Canada,March,2022,Espionage
+North America,Canada,May,2010,Espionage
+North America,Canada,May,2012,Malware
+North America,Canada,May,2021,Malware
+North America,Canada,May,2021,Phishing
+North America,Canada,November,2014,Malware
+North America,Canada,October,2020,Phishing
+North America,Canada,September,2012,DDoS
+North America,Canada,September,2014,Phishing
+North America,Canada,April,2021,Malware
+North America,Canada,September,2020,Phishing
+Asia,China,April,2009,APT
+Asia,China,April,2010,APT
+Asia,China,April,2017,APT
+Asia,China,April,2018,Malware
+Asia,China,April,2020,Phishing
+Asia,China,April,2020,Zero-Day Exploit
+Asia,China,August,2013,DoS
+Asia,China,August,2019,Malware
+Asia,China,August,2019,Phishing
+Asia,China,December,2019,APT
+Asia,China,December,2020,APT
+Asia,China,February,2012,APT
+Asia,China,February,2021,Espionage
+Asia,China,February,2022,Espionage
+Asia,China,January,2021,DDoS
+Asia,China,January,2010,Malware
+Asia,China,January,2021,Malware
+Asia,China,July,2020,APT
+Asia,China,July,2017,Espionage
+Asia,China,July,2015,Malware
+Asia,China,July,2020,Phishing
+Asia,China,June,2019,APT
+Asia,China,June,2020,APT
+Asia,China,June,2013,Espionage
+Asia,China,June,2015,Espionage
+Asia,China,June,2012,Phishing
+Asia,China,June,2022,SQL Injection
+Asia,China,March,2013,APT
+Asia,China,March,2017,Phishing
+Asia,China,March,2020,Phishing
+Asia,China,May,2022,Espionage
+Asia,China,May,2021,Phishing
+Asia,China,May,2015,SQL injection
+Asia,China,November,2017,APT
+Asia,China,November,2018,Phishing
+Asia,China,October,2011,APT
+Asia,China,October,2014,Malware
+Asia,China,October,2008,Man-in-the-Middle
+Asia,China,October,2007,Phishing
+Asia,China,September,2003,Malware
+Asia,China,September,2014,Malware
+Asia,China,October,2019,APT
+Asia,China,April,2019,Malware
+South America,Colombia,March,2021,Phishing
+South America,Costa Rica,May,2021,Phishing
+Europe,Croatia,April,2021,Malware
+Europe,Croatia,September,2020,Phishing
+Europe,Cyprus,February,2021,APT
+Europe,Czech Republic,December,2018,DoS
+Europe,Czech Republic,January,2016,Phishing
+Europe,Czech Republic,May,2021,Phishing
+Europe,Czech Republic,April,2021,Malware
+Europe,Czech Republic,August,2019,APT
+Europe,Czech Republic,September,2020,Phishing
+Europe,Denmark,April,2021,Malware
+Europe,Denmark,October,2020,Phishing
+Europe,Denmark,September,2020,Phishing
+Africa,Egypt,February,2021,APT
+Africa,Egypt,January,2019,Phishing
+Africa,Egypt,January,2021,Phishing
+Africa,Egypt,October,2019,APT
+Europe,Estonia,August,2017,APT
+Europe,Estonia,May,2007,DDoS
+Europe,Estonia,April,2021,Malware
+Europe,Estonia,September,2020,Phishing
+Africa,Ethiopia,May,2022,APT
+Europe,Finland,December,2020,Phishing
+Europe,Finland,July,2018,Zero-Day Exploit
+Europe,Finland,March,2016,Malware
+Europe,Finland,November,2013,Man-in-the-Middle
+Europe,Finland,April,2019,DDoS
+Europe,France,April,2015,DoS
+Europe,France,August,2007,Phishing
+Europe,France,December,2017,Malware
+Europe,France,February,2009,Malware
+Europe,France,July,2014,Espionage
+Europe,France,May,2017,Man-in-the-Middle
+Europe,France,September,2007,Malware
+Europe,France,April,2021,APT
+Europe,France,April,2021,Malware
+Europe,France,February,2021,Espionage
+Europe,France,October,2020,Malware
+Europe,France,September,2020,APT
+Europe,France,September,2020,Phishing
+Europe,France,May,2021,Phishing
+Europe,Georgia,April,2020,Phishing
+Europe,Georgia,August,2008,Zero-Day Exploit
+Europe,Georgia,October,2019,Espionage
+Europe,Georgia,September,2020,APT
+Europe,Germany,April,2021,Phishing
+Europe,Germany,December,2019,APT
+Europe,Germany,February,2021,Malware
+Europe,Germany,January,2022,SQL Injection
+Europe,Germany,July,2011,DDoS
+Europe,Germany,July,2019,Espionage
+Europe,Germany,June,2022,SQL Injection
+Europe,Germany,March,2009,Malware
+Europe,Germany,March,2021,Phishing
+Europe,Germany,March,2011,Zero-Day Exploit
+Europe,Germany,May,2020,DDoS
+Europe,Germany,May,2020,Phishing
+Europe,Germany,May,2021,Phishing
+Europe,Germany,September,2011,Malware
+Europe,Germany,September,2020,Malware
+Europe,Germany,April,2021,Malware
+Europe,Germany,September,2020,Phishing
+Europe,Germany,October,2020,Phishing
+Europe ,Germany,January,2022,Zero-Day Exploit
+Europe,Greece,April,2021,Malware
+Europe,Greece,September,2020,Phishing
+Europe,Greenland,March,2022,Espionage
+Europe ,Greenland,May,2022,Zero-Day Exploit
+Europe,Hungary,April,2021,Malware
+Europe,Hungary,September,2020,Phishing
+Europe,Iceland,April,2021,Malware
+Europe,Iceland,September,2020,Phishing
+Asia,India,April,2010,DDoS
+Asia,India,August,2017,Malware
+Asia,India,August,2020,Malware
+Asia,India,August,2016,Man-in-the-Middle
+Asia,India,August,2018,Phishing
+Asia,India,December,2020,APT
+Asia,India,December,2018,DoS
+Asia,India,December,2010,Phishing
+Asia,India,February,2021,Malware
+Asia,India,February,2022,Malware
+Asia,India,February,2009,Phishing
+Asia,India,February,2017,Phishing
+Asia,India,January,2009,Malware
+Asia,India,January,2018,Phishing
+Asia,India,January,2010,Zero-Day Exploit
+Asia,India,July,2012,APT
+Asia,India,July,2012,Malware
+Asia,India,June,2020,DDoS
+Asia,India,June,2020,Phishing
+Asia,India,March,2014,APT
+Asia,India,March,2021,DDoS
+Asia,India,March,2012,Espionage
+Asia,India,March,2021,Espionage
+Asia,India,March,2022,Malware
+Asia,India,March,2013,Phishing
+Asia,India,May,2018,Malware
+Asia,India,May,2008,Phishing
+Asia,India,May,2021,Phishing
+Asia,India,November,2014,Malware
+Asia,India,November,2020,Malware
+Asia,India,October,2020,APT
+Asia,India,October,2019,Malware
+Asia,India ,June,2020,Malware
+Asia,Indonesia,May,2020,Phishing
+Asia,Indonesia,May,2021,Phishing
+Asia,Indonesia,October,2010,Malware
+Asia,Iran,April,2012,Malware
+Asia,Iran,April,2022,Zero-Day Exploit
+Asia,Iran,August,2012,Malware
+Asia,Iran,August,2015,Phishing
+Asia,Iran,December,2017,APT
+Asia,Iran,December,2019,APT
+Asia,Iran,February,2021,APT
+Asia,Iran,February,2020,DDoS
+Asia,Iran,July,2012,Malware
+Asia,Iran,July,2020,Phishing
+Asia,Iran,June,2019,DDoS
+Asia,Iran,June,2022,Zero-Day Exploit
+Asia,Iran,March,2019,DDoS
+Asia,Iran,March,2020,Phishing
+Asia,Iran,May,2016,APT
+Asia,Iran,May,2020,APT
+Asia,Iran,May,2019,DDoS
+Asia,Iran,May,2013,DoS
+Asia,Iran,May,2012,Espionage
+Asia,Iran,November,2018,APT
+Asia,Iran,November,2020,APT
+Asia,Iran,October,2019,APT
+Asia,Iran,October,2020,APT
+Asia,Iran,October,2018,Malware
+Asia,Iran,September,2020,Malware
+Asia,Iran,September,2013,Zero-Day Exploit
+Asia,Iran,October,2010,Malware
+Asia,Iran,January,2014,Malware
+Asia,Iraq,February,2021,APT
+Asia,Iraq,October,2020,APT
+Europe,Ireland,April,2017,APT
+Europe,Ireland,May,2021,Malware
+Asia,Israel,April,2018,APT
+Asia,Israel,April,2017,Zero-Day Exploit
+Asia,Israel,February,2021,APT
+Asia,Israel,January,2016,Espionage
+Asia,Israel,July,2017,Phishing
+Asia,Israel,May,2017,Phishing
+Asia,Israel,May,2013,Zero-Day Exploit
+Asia,Israel,April,2022,APT
+Asia,Israel,April,2020,DDoS
+Asia,Israel,August,2020,APT
+Asia,Israel,August,2020,Phishing
+Asia,Israel,December,2020,Malware
+Asia,Israel,December,2020,Phishing
+Asia,Israel,January,2022,APT
+Asia,Israel,January,2009,DDoS
+Asia,Israel,January,2021,Phishing
+Asia,Israel,July,2020,DDoS
+Asia,Israel,June,2022,Malware
+Asia,Israel,June,2022,Phishing
+Asia,Israel,March,2021,Espionage
+Asia,Israel,March,2021,Phishing
+Asia,Israel,March,2022,Phishing
+Asia,Israel,November,2020,APT
+Asia,Israel,October,2019,Malware
+Europe,Italy,July,2014,Espionage
+Europe,Italy,July,2018,Malware
+Europe,Italy,July,2015,Phishing
+Europe,Italy,July,2017,Phishing
+Europe,Italy,May,2022,DDoS
+Europe,Italy,May,2020,Phishing
+Europe,Italy,May,2021,Phishing
+Europe,Italy,April,2021,Malware
+Europe,Italy,September,2020,Phishing
+Asia,Japan,April,2012,Malware
+Asia,Japan,April,2018,Man-in-the-Middle
+Asia,Japan,August,2011,Malware
+Asia,Japan,August,2011,Phishing
+Asia,Japan,August,2016,Phishing
+Asia,Japan,January,2018,APT
+Asia,Japan,January,2013,Malware
+Asia,Japan,January,2020,Phishing
+Asia,Japan,January,2019,Zero-Day Exploit
+Asia,Japan,January,2021,Zero-Day Exploit
+Asia,Japan,June,2015,Phishing
+Asia,Japan,June,2020,Phishing
+Asia,Japan,May,2011,Phishing
+Asia,Japan,May,2020,Phishing
+Asia,Japan,May,2021,Phishing
+Asia,Japan,November,2015,Espionage
+Asia,Japan,November,2020,Phishing
+Asia,Japan,October,2020,APT
+Asia,Japan,October,2019,Phishing
+Asia,Japan,September,2019,DDoS
+Asia,Japan,September,2016,Man-in-the-Middle
+Asia,Japan,October,2020,Zero-Day Exploit
+Asia,Jordan,February,2021,APT
+Asia,Jordan,January,2021,Phishing
+Asia,Jordan,July,2017,Phishing
+Asia,Jordan,May,2021,Phishing
+Asia,Jordan,May,2022,Espionage
+Asia,Kazakhstan,February,2021,Malware
+Asia,Kazakhstan,October,2020,APT
+Asia,Kazakhstan,November,2019,Phishing
+Asia,Kuwait,February,2021,APT
+Asia,Kuwait,May ,2020,APT
+Asia,Kuwait,October,2020,APT
+Europe,Kyrgyzstan,October,2020,APT
+Europe,Latvia,March,2010,Phishing
+Europe,Latvia,April,2021,Malware
+Europe,Latvia,September,2020,Phishing
+Europe,Latvia,August,2020,Phishing
+Asia,Lebanon,February,2021,APT
+Asia,Lebanon,January,2021,Phishing
+Asia,Lebanon,May,2017,DoS
+Asia,Lebanon,November,2018,DoS
+Africa,Libya,July,2019,SQL Injection
+Europe,Lithuania,March,2021,Phishing
+Europe,Lithuania,April,2021,Malware
+Europe,Lithuania,September,2020,Phishing
+Europe,Lithuania,August,2020,Phishing
+Europe,Lithuania,June,2022,DDoS
+Europe,Luxembourg,April,2021,Malware
+Europe,Luxembourg,September,2020,Phishing
+Asia,Malaysia,February,2020,Phishing
+Asia,Malaysia,October,2020,APT
+Oceania,Marshall Islands,March,2022,DDoS
+North America,Mexico,February,2020,Malware
+North America,Mexico,November,2020,APT
+Asia,Mongolia,December,2020,Phishing
+Europe,Montenegro,June,2017,Phishing
+Europe,Montenegro,April,2021,Malware
+Europe,Montenegro,September,2020,Phishing
+Africa,Morocco,June,2020,Phishing
+Asia,Myanmar,May,2020,Phishing
+Asia,Nepal,December,2020,APT
+Asia,Nepal,January,2021,DDoS
+Europe,Netherlands,April,2018,DoS
+Europe,Netherlands,April,2021,Malware
+Europe,Netherlands,February,2021,Malware
+Europe,Netherlands,October,2020,Phishing
+Europe,Netherlands,September,2020,Phishing
+Oceania,New Zealand,August,2020,DDoS
+Oceania,New Zealand,January,2021,APT
+Asia,North Korea,August,2019,Phishing
+Asia,North Korea,February,2022,Malware
+Asia,North Korea,January,2022,DDoS
+Asia,North Korea,January,2021,Man-in-the-Middle
+Asia,North Korea,July,2017,Malware
+Asia,North Korea,July,2020,Phishing
+Asia,North Korea,June,2022,Phishing
+Asia,North Korea,June,2015,Zero-Day Exploit
+Asia,North Korea,March,2020,APT
+Asia,North Korea,March,2013,DoS
+Asia,North Korea,October,2015,DoS
+Asia,North Korea,October,2020,Phishing
+Asia,North Korea,September,2017,DoS
+Europe,North Macedonia,September,2020,Phishing
+Europe,North Macedonia,April,2021,Malware
+Europe,Norway,January,2018,SQL injection
+Europe,Norway,June,2022,APT
+Europe,Norway,May,2020,Malware
+Europe,Norway,May,2021,Malware
+Europe,Norway,November,2011,Phishing
+Europe,Norway,September,2020,Phishing
+Europe,Norway,April,2021,Malware
+Asia,Oman,February,2021,APT
+Asia,Pakistan,April,2018,Malware
+Asia,Pakistan,August,2017,Malware
+Asia,Pakistan,August,2020,Phishing
+Asia,Pakistan,December,2020,APT
+Asia,Pakistan,December,2018,Man-in-the-Middle
+Asia,Pakistan,February,2021,Malware
+Asia,Pakistan,January,2021,DDoS
+Asia,Pakistan,January,2020,Malware
+Asia,Pakistan,May,2020,APT
+Asia,Pakistan,May,2013,Zero-Day Exploit
+Asia,Pakistan,November,2018,Zero-Day Exploit
+Asia,Pakistan,September,2015,DoS
+Asia,Palestine (observer state),January,2021,Phishing
+Asia,Palestine (observer state),February,2021,APT
+Asia,Palestine (observer state),April,2021,Phishing
+Asia,Palestine (observer state),February,2022,Malware
+South America,Peru,May,2021,Phishing
+Asia,Philippines,May,2019,DDoS
+Asia,Philippines,May,2020,Phishing
+Asia,Philippines,April,2016,Phishing
+Asia,Philippines,July,2016,DoS
+Europe,Poland,April,2020,Phishing
+Europe,Poland,July,2014,Espionage
+Europe,Poland,May,2021,Phishing
+Europe,Poland,October,2017,Zero-Day Exploit
+Europe,Poland,September,2017,Malware
+Europe,Poland,April,2021,Malware
+Europe,Poland,September,2020,Phishing
+Europe,Poland,April,2021,Phishing
+Europe,Poland,August,2020,Phishing
+Europe,Poland,March,2021,Phishing
+Europe,Portugal,May,2021,Phishing
+Europe,Portugal,April,2021,Malware
+Europe,Portugal,September,2020,Phishing
+Asia,Qatar,February,2021,APT
+Asia,Qatar,July,2017,Man-in-the-Middle
+Europe,Romania,April,2022,DDoS
+Europe,Romania,April,2021,Malware
+Europe,Romania,September,2020,Phishing
+Europe,Russia,April,2013,Malware
+Europe,Russia,August,2016,Phishing
+Europe,Russia,December,2018,Man-in-the-Middle
+Europe,Russia,July,2020,APT
+Europe,Russia,July,2016,Man-in-the-Middle
+Europe,Russia,July,2020,Phishing
+Europe,Russia,June,2019,DDoS
+Europe,Russia,March,2019,Espionage
+Europe,Russia,March,2022,Malware
+Europe,Russia,March,2022,Phishing
+Europe,Russia,May,2021,Phishing
+Europe,Russia,May,2022,Phishing
+Europe,Russia,October,2020,APT
+Europe,Russia,October,2017,Malware
+Europe,Russia,October,2014,Zero-Day Exploit
+Europe,Russia,August,2019,SQL Injection
+Europe,Russia,February,2019,Zero-Day Exploit
+Europe,Russia,January,2022,Malware
+Europe,Russia,June,2019,Phishing
+Europe,Russia,November,2009,SQL Injection
+Europe,Russia,October,2012,Malware
+Asia,Saudi Arabia,February,2021,APT
+Asia,Saudi Arabia,January,2021,Phishing
+Asia,Saudi Arabia,March,2021,Espionage
+Asia,Saudi Arabia,March,2020,Phishing
+Asia,Saudi Arabia,May,2020,APT
+Asia,Saudi Arabia,December,2018,DoS
+Asia,Saudi Arabia,February,2017,Espionage
+Asia,Saudi Arabia,July,2017,Phishing
+Asia,Saudi Arabia,May,2013,DoS
+Asia,Saudi Arabia,May,2016,Malware
+Asia,Saudi Arabia,May,2015,Phishing
+Asia,Saudi Arabia,November,2016,Malware
+Asia,Saudi Arabia,October,2018,Malware
+Asia,Saudi Arabia,September,2017,Espionage
+Asia,Saudi Arabia,July,2019,DDoS
+Asia,Saudi Arabia,September,2019,Malware
+Europe,Scotland,December,2018,DoS
+Europe,Scotland,December,2020,Malware
+Europe,Scotland,November,2008,Phishing
+Asia,Singapore,February,2017,Espionage
+Asia,Singapore,July,2018,Phishing
+Asia,Singapore,June,2020,Phishing
+Asia,Singapore,November,2020,Malware
+Asia,Singapore,October,2020,Phishing
+Europe,Slovakia ,April,2021,Malware
+Europe,Slovakia ,September,2020,Phishing
+Europe,Slovenia ,April,2021,Malware
+Europe,Slovenia ,September,2020,Phishing
+Africa,South Africa,January,2011,Phishing
+Asia,South Korea,April,2017,Espionage
+Asia,South Korea,April,2009,Malware
+Asia,South Korea,April,2016,SQL injection
+Asia,South Korea,August,2017,Malware
+Asia,South Korea,December,2018,Phishing
+Asia,South Korea,February,2018,DoS
+Asia,South Korea,July,2009,DDoS
+Asia,South Korea,July,2011,Malware
+Asia,South Korea,June,2020,Phishing
+Asia,South Korea,June,2018,Zero-Day Exploit
+Asia,South Korea,March,2008,Espionage
+Asia,South Korea,March,2013,Malware
+Asia,South Korea,March,2016,Malware
+Asia,South Korea,May,2021,Espionage
+Asia,South Korea,November,2020,Malware
+Asia,South Korea,October,2020,APT
+Asia,South Korea,October,2017,SQL injection
+Asia,South Korea,September,2013,DoS
+Asia,South Korea,September,2017,Espionage
+Europe,Spain,July,2014,Espionage
+Europe,Spain,May,2021,Phishing
+Europe,Spain,September,2020,Phishing
+Europe,Spain,April,2021,Malware
+Asia,Sri Lanka,January,2016,Phishing
+Asia,Sri Lanka,December,2020,APT
+Europe,Sweden,October,2020,Phishing
+Europe,Sweden,April,2021,Phishing
+Europe,Sweden,February,2021,Malware
+Europe,Sweden,January,2017,Zero-Day Exploit
+Europe,Sweden,July,2017,Phishing
+Asia,Syria,February,2021,APT
+Asia,Syria,June,2020,APT
+Asia,Syria,September,2007,DDoS
+Asia,Taiwan,May,2020,Malware
+Asia,Taiwan,May,2020,Phishing
+Asia,Taiwan,August,2020,Malware
+Asia,Taiwan,August,2020,Phishing
+Asia,Thailand,May,2020,Phishing
+Asia,Tibet,September,2019,Malware
+Asia,Tibet,June,2020,Malware
+Asia,Tibet,June,2008,Phishing
+Asia,Turkey,February,2021,APT
+Asia,Turkey,June,2020,APT
+Asia,Turkey,March,2021,Man-in-the-Middle
+Asia,Turkey,October,2020,APT
+Europe,Turkey,December,2018,Man-in-the-Middle
+Europe,Turkey,July,2014,Espionage
+Europe,Turkey,July,2017,Phishing
+Europe,Turkey,March,2018,DoS
+Europe,Turkey,May,2018,APT
+Europe,Turkey,May,2016,Man-in-the-Middle
+Europe,Ukraine,April,2019,DDoS
+Europe,Ukraine,April,2022,DDoS
+Europe,Ukraine,April,2022,Malware
+Europe,Ukraine,April,2022,Phishing
+Europe,Ukraine,February,2022,DDoS
+Europe,Ukraine,January,2022,Malware
+Europe,Ukraine,April,2021,Phishing
+Europe,Ukraine,August,2020,Phishing
+Europe,Ukraine,December,2015,DoS
+Europe,Ukraine,December,2016,DoS
+Europe,Ukraine,December,2018,Espionage
+Europe,Ukraine,December,2019,Phishing
+Europe,Ukraine,February,2021,DDoS
+Europe,Ukraine,February,2017,Malware
+Europe,Ukraine,January,2020,APT
+Europe,Ukraine,June,2018,Espionage
+Europe,Ukraine,June,2017,Malware
+Europe,Ukraine,November,2018,Espionage
+Europe,Ukraine,November,2018,Malware
+Europe,Ukraine,October,2020,APT
+Europe,Ukraine,October,2018,DoS
+Europe,Ukraine,October,2020,Malware
+Europe,Ukraine,February,2021,Malware
+Europe,Ukraine,March,2021,APT
+Europe,Ukraine,September,2018,Espionage
+Asia,United Arab Emirates,December,2018,DoS
+Asia,United Arab Emirates,February,2021,Espionage
+Asia,United Arab Emirates,January,2021,Phishing
+Asia,United Arab Emirates,June,2015,Espionage
+Asia,United Arab Emirates,March,2021,Espionage
+Asia,United Arab Emirates,May,2013,Phishing
+Asia,United Arab Emirates,May,2021,Phishing
+Asia,United Arab Emirates,November,2008,DDoS
+Asia,United Arab Emirates,November,2018,DoS
+Asia,United Arab Emirates,October,2020,APT
+Asia,United Arab Emirates,October,2019,Espionage
+Asia,United Arab Emirates,February,2021,APT
+Europe,United Kingdom,May,2022,DDoS
+Europe,United Kingdom,June,2012,Malware
+Europe,United Kingdom,August,2012,Phishing
+Europe,United Kingdom,March,2012,Phishing
+Europe,United Kingdom,April,2021,Malware
+Europe,United Kingdom,September,2020,Phishing
+Europe,United Kingdom,February,2021,Phishing
+Europe,United Kingdom,January,2021,Phishing
+Europe,United Kingdom,July,2020,Phishing
+Europe,United Kingdom,June,2020,Phishing
+Europe,United Kingdom,May,2020,Phishing
+Europe,United Kingdom,October,2020,Phishing
+Europe,United Kingdom,April,2016,Phishing
+Europe,United Kingdom,April,2018,Zero-Day Exploit
+Europe,United Kingdom,August,2017,Brute Force
+Europe,United Kingdom,December,2018,Espionage
+Europe,United Kingdom,December,2010,Malware
+Europe,United Kingdom,February,2013,APT
+Europe,United Kingdom,February,2022,APT
+Europe,United Kingdom,February,2018,DoS
+Europe,United Kingdom,February,2018,Malware
+Europe,United Kingdom,February,2022,Malware
+Europe,United Kingdom,January,2010,APT
+Europe,United Kingdom,January,2011,APT
+Europe,United Kingdom,January,2022,DDoS
+Europe,United Kingdom,January,2015,Espionage
+Europe,United Kingdom,July,2017,APT
+Europe,United Kingdom,July,2014,Espionage
+Europe,United Kingdom,July,2017,Phishing
+Europe,United Kingdom,June,2015,DoS
+Europe,United Kingdom,June,2017,Phishing
+Europe,United Kingdom,March,2011,Espionage
+Europe,United Kingdom,March,2018,Malware
+Europe,United Kingdom,March,2022,Malware
+Europe,United Kingdom,March,2010,Phishing
+Europe,United Kingdom,May,2018,DoS
+Europe,United Kingdom,May,2012,Espionage
+Europe,United Kingdom,May,2016,Espionage
+Europe,United Kingdom,May,2021,Phishing
+Europe,United Kingdom,November,2018,APT
+Europe,United Kingdom,November,2019,DDoS
+Europe,United Kingdom,November,2015,Espionage
+Europe,United Kingdom,November,2019,Malware
+Europe,United Kingdom,November,2007,Man-in-the-Middle
+Europe,United Kingdom,November,2014,Phishing
+Europe,United Kingdom,November,2018,Zero-Day Exploit
+Europe,United Kingdom,October,2019,Espionage
+Europe,United Kingdom,October,2013,Phishing
+Europe,United Kingdom,October,2019,Zero-Day Exploit
+Europe,United Kingdom,September,2014,Espionage
+Europe,United Kingdom,September,2007,Malware
+Europe,United Kingdom,September,2019,Phishing
+North America,United States,April,2019,APT
+North America,United States,April,2021,Malware
+North America,United States,April,2020,Phishing
+North America,United States,April,2021,Phishing
+North America,United States,August,2020,APT
+North America,United States,August,2020,Phishing
+North America,United States,December,2020,APT
+North America,United States,December,2019,DDoS
+North America,United States,December,2020,DDoS
+North America,United States,February,2021,APT
+North America,United States,April,2005,APT
+North America,United States,April,2007,DDoS
+North America,United States,April,2022,DDoS
+North America,United States,April,2015,DoS
+North America,United States,December,2020,Malware
+North America,United States,April,2018,DoS
+North America,United States,December,2020,Man-in-the-Middle
+North America,United States,April,2014,Espionage
+North America,United States,April,2016,Espionage
+North America,United States,April,2022,Espionage
+North America,United States,April,2011,Malware
+North America,United States,April,2017,Malware
+North America,United States,April,2022,Malware
+North America,United States,December,2020,Phishing
+North America,United States,April,2011,Phishing
+North America,United States,April,2017,Phishing
+North America,United States,February,2020,APT
+North America,United States,April,2008,SQL Injection
+North America,United States,April,2009,SQL Injection
+North America,United States,April,2018,SQL injection
+North America,United States,April,2017,Zero-Day Exploit
+North America,United States,August,2009,DDoS
+North America,United States,August,2014,DoS
+North America,United States,August,2011,Espionage
+North America,United States,August,2006,Malware
+North America,United States,August,2014,Malware
+North America,United States,August,2016,Malware
+North America,United States,August,2018,Malware
+North America,United States,February,2021,Phishing
+North America,United States,August,2013,Man-in-the-Middle
+North America,United States,August,2009,Phishing
+North America,United States,December,2011,APT
+North America,United States,December,2016,Espionage
+North America,United States,December,2018,Espionage
+North America,United States,February,2019,Zero-Day Exploit
+North America,United States,December,2009,Malware
+North America,United States,December,2012,Malware
+North America,United States,January,2019,APT
+North America,United States,January,2020,APT
+North America,United States,December,2018,Malware
+North America,United States,December,2018,Man-in-the-Middle
+North America,United States,December,2008,Phishing
+North America,United States,December,2009,Phishing
+North America,United States,December,2014,Phishing
+North America,United States,January,2020,Phishing
+North America,United States,January,2021,Phishing
+North America,United States,December,2016,Phishing
+North America,United States,December,2018,Phishing
+North America,United States,December,2006,SQL Injection
+North America,United States,December,2008,SQL Injection
+North America,United States,February,2009,DDoS
+North America,United States,February,2018,DoS
+North America,United States,February,2013,Espionage
+North America,United States,February,2022,Espionage
+North America,United States,February,2018,Malware
+North America,United States,February,2016,Phishing
+North America,United States,July,2019,Malware
+North America,United States,February,2022,Phishing
+North America,United States,February,2015,SQL injection
+North America,United States,February,2016,SQL injection
+North America,United States,February,2017,SQL injection
+North America,United States,February,2018,SQL injection
+North America,United States,January,2013,APT
+North America,United States,July,2019,Phishing
+North America,United States,January,2013,DoS
+North America,United States,July,2020,Phishing
+North America,United States,January,2016,Espionage
+North America,United States,July,2019,Zero-Day Exploit
+North America,United States,January,2018,Espionage
+North America,United States,January,2010,Malware
+North America,United States,January,2022,Malware
+North America,United States,January,2010,Phishing
+North America,United States,January,2010,SQL Injection
+North America,United States,January,2008,Zero-Day Exploit
+North America,United States,July,2011,DDoS
+North America,United States,July,2018,DoS
+North America,United States,July,2014,Espionage
+North America,United States,July,2017,Espionage
+North America,United States,July,2010,Malware
+North America,United States,July,2014,Man-in-the-Middle
+North America,United States,July,2018,Man-in-the-Middle
+North America,United States,July,2012,Phishing
+North America,United States,July,2015,Phishing
+North America,United States,July,2017,Phishing
+North America,United States,June,2020,Phishing
+North America,United States,June,2022,Phishing
+North America,United States,July,2018,Phishing
+North America,United States,July,2018,Zero-Day Exploit
+North America,United States,June,2015,APT
+North America,United States,June,2017,APT
+North America,United States,June,2007,DDoS
+North America,United States,June,2009,DDoS
+North America,United States,June,2013,DoS
+North America,United States,June,2017,DoS
+North America,United States,June,2018,Espionage
+North America,United States,June,2011,Malware
+North America,United States,June,2012,Malware
+North America,United States,June,2012,Phishing
+North America,United States,June,2013,Phishing
+North America,United States,June,2017,Phishing
+North America,United States,June,2018,Phishing
+North America,United States,March,2021,Malware
+North America,United States,June,2007,SQL Injection
+North America,United States,March,2012,APT
+North America,United States,March,2005,DDoS
+North America,United States,March,2022,DDoS
+North America,United States,March,2008,Espionage
+North America,United States,March,2018,Espionage
+North America,United States,March,2020,Phishing
+North America,United States,March,2021,Phishing
+North America,United States,March,2019,Zero-Day Exploit
+North America,United States,May,2020,APT
+North America,United States,May,2021,DDoS
+North America,United States,March,2022,Espionage
+North America,United States,March,2007,Malware
+North America,United States,March,2013,Malware
+North America,United States,March,2015,Malware
+North America,United States,March,2016,Malware
+North America,United States,March,2017,Malware
+North America,United States,March,2018,Malware
+North America,United States,March,2009,Phishing
+North America,United States,March,2011,Phishing
+North America,United States,May,2019,Malware
+North America,United States,March,2012,Phishing
+North America,United States,May,2021,Malware
+North America,United States,March,2016,Phishing
+North America,United States,March,2017,Phishing
+North America,United States,March,2018,SQL injection
+North America,United States,May,2014,DoS
+North America,United States,May,2018,DoS
+North America,United States,May,2013,Espionage
+North America,United States,May,2017,Espionage
+North America,United States,May,2007,Malware
+North America,United States,May,2020,Phishing
+North America,United States,May,2009,Malware
+North America,United States,May,2013,Malware
+North America,United States,May,2017,Malware
+North America,United States,May,2021,Phishing
+North America,United States,May,2018,Malware
+North America,United States,May,2015,Man-in-the-Middle
+North America,United States,May,2006,Phishing
+North America,United States,May,2009,Phishing
+North America,United States,May,2010,Phishing
+North America,United States,May,2014,Phishing
+North America,United States,May,2015,Phishing
+North America,United States,May,2018,Phishing
+North America,United States,November,2016,APT
+North America,United States,November,2006,DDoS
+North America,United States,November,2008,Espionage
+North America,United States,November,2020,Phishing
+North America,United States,November,2011,Malware
+North America,United States,November,2015,Malware
+North America,United States,October,2020,APT
+North America,United States,November,2016,Malware
+North America,United States,November,2018,Malware
+North America,United States,November,2015,Man-in-the-Middle
+North America,United States,October,2019,Espionage
+North America,United States,November,2018,SQL injection
+North America,United States,October,2017,APT
+North America,United States,October,2017,Brute Force
+North America,United States,October,2014,DoS
+North America,United States,October,2017,DoS
+North America,United States,October,2020,Malware
+North America,United States,October,2014,Espionage
+North America,United States,October,2007,Malware
+North America,United States,October,2010,Malware
+North America,United States,October,2016,Malware
+North America,United States,October,2020,Phishing
+North America,United States,October,2017,Malware
+North America,United States,October,2014,Man-in-the-Middle
+North America,United States,October,2018,Man-in-the-Middle
+North America,United States,October,2017,Phishing
+North America,United States,October,2017,SQL injection
+North America,United States,September,2019,APT
+North America,United States,September,2020,APT
+North America,United States,October,2014,Zero-Day Exploit
+North America,United States,September,2017,APT
+North America,United States,September,2018,APT
+North America,United States,September,2012,DDoS
+North America,United States,September,2015,DoS
+North America,United States,September,2017,Espionage
+North America,United States,September,2011,Malware
+North America,United States,September,2013,Malware
+North America,United States,September,2017,Malware
+North America,United States,September,2007,Phishing
+North America,United States,September,2019,Phishing
+North America,United States,June,2009,Espionage
+North America,United States,September,2016,Phishing
+North America,United States,September,2017,Phishing
+North America,United States,September,2018,SQL injection
+North America,United States,September,2020,Phishing
+North America,United States,September,2013,Zero-Day Exploit
+North America,United States,September,2019,Zero-Day Exploit
+North America,Unites States,March,2009,Malware
+Asia,Uzbekistan,March,2020,Malware
+Asia,Vietnam,April,2021,Espionage
+Asia,Vietnam,February,2021,Espionage
+Asia,Vietnam,March,2010,Phishing
+Asia,Vietnam,May,2020,Phishing
+Asia,Vietnam,February,2019,Espionage
+Asia,Yemen,February,2021,APT

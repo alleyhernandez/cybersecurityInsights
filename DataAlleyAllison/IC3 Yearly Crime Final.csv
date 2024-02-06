@@ -1,0 +1,260 @@
+Year,Crime Type, Count , Loss ,Source
+2022,Advanced Fee,11264,104325444,Yearly Summary Report
+2022,BEC,21832,2742354049,Yearly Summary Report
+2022,Botnet,568,17099378,Yearly Summary Report
+2022,Confidence/Romance,19021,735882192,Yearly Summary Report
+2022,Credit Card/Check Fraud,22985,264148905,Yearly Summary Report
+2022,Crimes Against Children,2587,577464,Yearly Summary Report
+2022,Data Breach,2795,459321859,Yearly Summary Report
+2022,Personal Data Breach,58859,742438136,Yearly Summary Report
+2022,Employment,14946,52204269,Yearly Summary Report
+2022,Extortion,39416,54335128,Yearly Summary Report
+2022,Government Impersonation,11554,240553091,Yearly Summary Report
+2022,Harassment/Stalking,11779,5621402,Yearly Summary Report
+2022,Identity Theft,27922,189205793,Yearly Summary Report
+2022,Investment,30529,3311742206,Yearly Summary Report
+2022,IPR/Copyright/Counterfeit,2183,4591177,Yearly Summary Report
+2022,Lottery/Sweepstakes/Inheritance,5650,83602376,Yearly Summary Report
+2022,Malware,762,9326482,Yearly Summary Report
+2022,Non-Payment/Non-Delivery,51679,281770073,Yearly Summary Report
+2022,Other,9966,117686789,Yearly Summary Report
+2022,Overpayment,6183,38335772,Yearly Summary Report
+2022,Phishing,300497,52089159,Yearly Summary Report
+2022,Ransomware,2385,34353237,Yearly Summary Report
+2022,Real Estate,11727,396932821,Yearly Summary Report
+2022,SIM Swap,2026,72652571,Yearly Summary Report
+2022,Spoofing,20649,107926252,Yearly Summary Report
+2022,Tech Support,32538,806551993,Yearly Summary Report
+2022,Threats of Violence,2224,4972099,Yearly Summary Report
+2021,Advanced Fee,11034,98694137,Yearly Summary Report
+2021,BEC/EAC,19954,2395953296,Yearly Summary Report
+2021,Civil Matter,1118,85049939,Yearly Summary Report
+2021,Computer Intrusion,979,19603037,Yearly Summary Report
+2021,Confidence Fraud/Romance,24299,956039740,Yearly Summary Report
+2021,Credit Card Fraud,16750,172998385,Yearly Summary Report
+2021,Crimes Against Children,2167,198950,Yearly Summary Report
+2021,Corporate Data Breach,1287,151568225,Yearly Summary Report
+2021,Personal Data Breach,51829,517021289,Yearly Summary Report
+2021,Denial of Service/TDoS,1104,217981,Yearly Summary Report
+2021,Employment,15253,47231023,Yearly Summary Report
+2021,Extortion,39360,60577741,Yearly Summary Report
+2021,Gambling,395,1940237,Yearly Summary Report
+2021,Government Impersonation,11335,142643253,Yearly Summary Report
+2021,Health Care Related,578,7042942,Yearly Summary Report
+2021,Identity Theft,51629,278267918,Yearly Summary Report
+2021,Investment,20561,1455943193,Yearly Summary Report
+2021,IPR/Copyright and Counterfeit,4270,16365011,Yearly Summary Report
+2021,Lottery/Sweepstakes/Inheritance,5991,71289089,Yearly Summary Report
+2021,Malware/Scareware/Virus,810,5596889,Yearly Summary Report
+2021,Non-Payment/Non-Delivery,82478,337493071,Yearly Summary Report
+2021,Other,12346,75837524,Yearly Summary Report
+2021,Overpayment,6108,33407671,Yearly Summary Report
+2021,Phishing/Vishing/Smishing/Pharming,323972,44213707,Yearly Summary Report
+2021,Ransomware,3729,49207908,Yearly Summary Report
+2021,Real Estate/Rental,11578,350328166,Yearly Summary Report
+2021,Re-shipping,516,631466,Yearly Summary Report
+2021,Spoofing,18522,82169806,Yearly Summary Report
+2021,Tech Support,23903,347657432,Yearly Summary Report
+2021,Terrorism/Threats of Violence,12346,4390720,Yearly Summary Report
+2020,Advanced Fee,13020,83215405,Yearly Summary Report
+2020,BEC/EAC,19369,1866642107,Yearly Summary Report
+2020,Charity,659,4428766,Yearly Summary Report
+2020,Civil Matter,968,24915958,Yearly Summary Report
+2020,Confidence Fraud/Romance,23751,600249821,Yearly Summary Report
+2020,Credit Card Fraud,17614,129820792,Yearly Summary Report
+2020,Crimes Against Children,3202,660044,Yearly Summary Report
+2020,Corporate Data Breach,2794,128916648,Yearly Summary Report
+2020,Personal Data Breach,45330,194473055,Yearly Summary Report
+2020,Denial of Service/TDoS,2018,512127,Yearly Summary Report
+2020,Employment,16879,62314015,Yearly Summary Report
+2020,Extortion,76741,70935939,Yearly Summary Report
+2020,Gambling,391,3961508,Yearly Summary Report
+2020,Government Impersonation,12827,109938030,Yearly Summary Report
+2020,Hacktivist,52,50,Yearly Summary Report
+2020,Harassment/Threats of Violence,20604,6547449,Yearly Summary Report
+2020,Health Care Related,1383,29042515,Yearly Summary Report
+2020,Identity Theft,43330,219484699,Yearly Summary Report
+2020,Investment,8788,336469000,Yearly Summary Report
+2020,IPR/Copyright and Counterfeit,4213,5910617,Yearly Summary Report
+2020,Lottery/Sweepstakes/Inheritance,8501,61111319,Yearly Summary Report
+2020,Malware/Scareware/Virus,1423,6904054,Yearly Summary Report
+2020,Misrepresentation,24276,19707242,Yearly Summary Report
+2020,Non-Payment/Non-Delivery,108869,265011249,Yearly Summary Report
+2020,Other,10372,101523082,Yearly Summary Report
+2020,Overpayment,10988,51039922,Yearly Summary Report
+2020,Phishing/Vishing/Smishing/Pharming,241342,54241075,Yearly Summary Report
+2020,Ransomware,2474,29157405,Yearly Summary Report
+2020,Real Estate/Rental,13638,213196082,Yearly Summary Report
+2020,Re-shipping,883,3095265,Yearly Summary Report
+2020,Spoofing,28218,216513728,Yearly Summary Report
+2020,Tech Support,15421,146477709,Yearly Summary Report
+2020,Terrorism,65,0,Yearly Summary Report
+2019,Advanced Fee,14607,100602297,Yearly Summary Report
+2019,BEC/EAC,23775,1776549688,Yearly Summary Report
+2019,Charity,407,2214383,Yearly Summary Report
+2019,Civil Matter,908,20242867,Yearly Summary Report
+2019,Confidence Fraud/Romance,19473,475014032,Yearly Summary Report
+2019,Credit Card Fraud,14378,111491163,Yearly Summary Report
+2019,Crimes Against Children,1312,975311,Yearly Summary Report
+2019,Corporate Data Breach,1795,53398278,Yearly Summary Report
+2019,Personal Data Breach,38218,120102501,Yearly Summary Report
+2019,Denial of Service/TDoS,1353,7598198,Yearly Summary Report
+2019,Employment,14493,42618705,Yearly Summary Report
+2019,Extortion,43101,107498956,Yearly Summary Report
+2019,Gambling,262,1458118,Yearly Summary Report
+2019,Government Impersonation,13873,124292606,Yearly Summary Report
+2019,Hacktivist,39,129000,Yearly Summary Report
+2019,Harassment/Threats of Violence,15502,19866654,Yearly Summary Report
+2019,Health Care Related,657,1128838,Yearly Summary Report
+2019,Identity Theft,16053,160305789,Yearly Summary Report
+2019,Investment,3999,222186195,Yearly Summary Report
+2019,IPR/Copyright and Counterfeit,3892,10293307,Yearly Summary Report
+2019,Lottery/Sweepstakes/Inheritance,7767,48642332,Yearly Summary Report
+2019,Malware/Scareware/Virus,2373,2009119,Yearly Summary Report
+2019,Misrepresentation,5975,12371573,Yearly Summary Report
+2019,Non-Payment/Non-Delivery,61832,196563497,Yearly Summary Report
+2019,Other,10842,66223160,Yearly Summary Report
+2019,Overpayment,15395,55820212,Yearly Summary Report
+2019,Phishing/Vishing/Smishing/Pharming,114702,57836379,Yearly Summary Report
+2019,Ransomware,2047,8965847,Yearly Summary Report
+2019,Real Estate/Rental,11677,221365911,Yearly Summary Report
+2019,Re-shipping,929,1772692,Yearly Summary Report
+2019,Spoofing,25789,300478433,Yearly Summary Report
+2019,Tech Support,13633,54041053,Yearly Summary Report
+2019,Terrorism,61,49589,Yearly Summary Report
+2018,Advanced Fee,16362,92271682,Yearly Summary Report
+2018,BEC/EAC,20373,1297803489,Yearly Summary Report
+2018,Charity,493,1006379,Yearly Summary Report
+2018,Civil Matter,768,15172692,Yearly Summary Report
+2018,Confidence Fraud/Romance,18493,362500761,Yearly Summary Report
+2018,Credit Card Fraud,15210,88991436,Yearly Summary Report
+2018,Crimes Against Children,1394,265996,Yearly Summary Report
+2018,Corporate Data Breach,2480,117711989,Yearly Summary Report
+2018,Personal Data Breach,50642,148892403,Yearly Summary Report
+2018,Denial of Service/TDoS,1799,2052340,Yearly Summary Report
+2018,Employment,14979,45487120,Yearly Summary Report
+2018,Extortion,51146,83357901,Yearly Summary Report
+2018,Gambling,181,926953,Yearly Summary Report
+2018,Government Impersonation,10978,64211765,Yearly Summary Report
+2018,Hacktivist,77,77612,Yearly Summary Report
+2018,Harassment/Threats of Violence,18415,21903829,Yearly Summary Report
+2018,Health Care Related,337,4474792,Yearly Summary Report
+2018,Identity Theft,16128,100429691,Yearly Summary Report
+2018,Investment,3693,252955320,Yearly Summary Report
+2018,IPR/Copyright and Counterfeit,2249,15802011,Yearly Summary Report
+2018,Lottery/Sweepstakes,7146,60214814,Yearly Summary Report
+2018,Malware/Scareware/Virus,2811,7411651,Yearly Summary Report
+2018,Misrepresentation,5959,20000713,Yearly Summary Report
+2018,No Lead Value,36936,0,Yearly Summary Report
+2018,Non-Payment/Non-Delivery,65116,183826809,Yearly Summary Report
+2018,Other,10826,63126929,Yearly Summary Report
+2018,Overpayment,15512,53225507,Yearly Summary Report
+2018,Phishing/Vishing/Smishing/Pharming,26379,48241748,Yearly Summary Report
+2018,Ransomware,1493,3621857,Yearly Summary Report
+2018,Real Estate/Rental,11300,149458114,Yearly Summary Report
+2018,Re-shipping,907,1684179,Yearly Summary Report
+2018,Spoofing,15569,70000248,Yearly Summary Report
+2018,Tech Support,14408,38697026,Yearly Summary Report
+2018,Terrorism,120,10193,Yearly Summary Report
+2017,Advanced Fee,16368,57861324,Yearly Summary Report
+2017,BEC/EAC,15690,676151185,Yearly Summary Report
+2017,Charity,436,1405460,Yearly Summary Report
+2017,Civil Matter,1057,5766550,Yearly Summary Report
+2017,Confidence Fraud/Romance,15372,211382989,Yearly Summary Report
+2017,Credit Card Fraud,15220,57207248,Yearly Summary Report
+2017,Crimes Against Children,1300,46411,Yearly Summary Report
+2017,Corporate Data Breach,3785,60942306,Yearly Summary Report
+2017,Personal Data Breach,30904,77134865,Yearly Summary Report
+2017,Denial of Service/TDoS,1201,1466195,Yearly Summary Report
+2017,Employment,15784,38883616,Yearly Summary Report
+2017,Extortion,14938,15302792,Yearly Summary Report
+2017,Gambling,203,598853,Yearly Summary Report
+2017,Government Impersonation,9149,12467380,Yearly Summary Report
+2017,Hacktivist,158,20147,Yearly Summary Report
+2017,Harassment/Threats of Violence,16194,12569185,Yearly Summary Report
+2017,Health Care Related,406,925849,Yearly Summary Report
+2017,Identity Theft,17636,66815298,Yearly Summary Report
+2017,Investment,3089,96844144,Yearly Summary Report
+2017,IPR/Copyright and Counterfeit,2644,5536912,Yearly Summary Report
+2017,Lottery/Sweepstakes,3012,16835001,Yearly Summary Report
+2017,Malware/Scareware/Virus,3089,5003434,Yearly Summary Report
+2017,Misrepresentation,5437,14580907,Yearly Summary Report
+2017,No Lead Value,20241,0,Yearly Summary Report
+2017,Non-Payment/Non-Delivery,84079,141110441,Yearly Summary Report
+2017,Other,14023,23853704,Yearly Summary Report
+2017,Overpayment,23135,53450830,Yearly Summary Report
+2017,Phishing/Vishing/Smishing/Pharming,25344,29703421,Yearly Summary Report
+2017,Ransomware,1783,2344365,Yearly Summary Report
+2017,Real Estate/Rental,9645,56231333,Yearly Summary Report
+2017,Re-shipping,1025,809746,Yearly Summary Report
+2017,Tech Support,10949,14810080,Yearly Summary Report
+2017,Terrorism,177,18926,Yearly Summary Report
+2016,Advanced Fee,15075,60484573,Yearly Summary Report
+2016,BEC/EAC,12005,360513961,Yearly Summary Report
+2016,Charity,437,1660452,Yearly Summary Report
+2016,Civil Matter,1070,57688555,Yearly Summary Report
+2016,Confidence Fraud/Romance,14546,219807760,Yearly Summary Report
+2016,Credit Card Fraud,15895,48187993,Yearly Summary Report
+2016,Crimes Against Children,1230,79173,Yearly Summary Report
+2016,Corporate Data Breach,3403,95869990,Yearly Summary Report
+2016,Personal Data Breach,27573,59139152,Yearly Summary Report
+2016,Denial of Service,979,11213566,Yearly Summary Report
+2016,Employment,17387,40517605,Yearly Summary Report
+2016,Extortion,17146,15811837,Yearly Summary Report
+2016,Gambling,137,290693,Yearly Summary Report
+2016,Government Impersonation,12344,12278714,Yearly Summary Report
+2016,Hacktivist,113,55500,Yearly Summary Report
+2016,Harassment/Threats of Violence,16385,22005655,Yearly Summary Report
+2016,Health Care Related,369,995659,Yearly Summary Report
+2016,Identity Theft,16878,58917398,Yearly Summary Report
+2016,Investment,2197,123407997,Yearly Summary Report
+2016,IPR/Copyright and Counterfeit,2572,6829467,Yearly Summary Report
+2016,Lottery/Sweepstakes,4231,21283769,Yearly Summary Report
+2016,Malware/Scareware,2783,3853351,Yearly Summary Report
+2016,Misrepresentation,5436,13725233,Yearly Summary Report
+2016,No Lead Value,13794,0,Yearly Summary Report
+2016,Non-Payment/Non-Delivery,81029,138228282,Yearly Summary Report
+2016,Other,12619,73092101,Yearly Summary Report
+2016,Overpayment,25716,56004836,Yearly Summary Report
+2016,Phishing/Vishing/Smishing/Pharming,19465,31679451,Yearly Summary Report
+2016,Ransomware,2673,2431261,Yearly Summary Report
+2016,Real Estate/Rental,12574,47875765,Yearly Summary Report
+2016,Re-shipping,893,1932021,Yearly Summary Report
+2016,Tech Support,10850,7806416,Yearly Summary Report
+2016,Terrorism,295,219935,Yearly Summary Report
+2016,Virus,1498,1635321,Yearly Summary Report
+2015,Advanced Fee,16445,50721226,Yearly Summary Report
+2015,Auction,21510,18906416,Yearly Summary Report
+2015,Business Email Compromise,7837,246226016,Yearly Summary Report
+2015,Charity,411,1328153,Yearly Summary Report
+2015,Civil Matter,1148,9946345,Yearly Summary Report
+2015,Confidence Fraud/Romance,12509,203390531,Yearly Summary Report
+2015,Credit Card Fraud,17172,41503502,Yearly Summary Report
+2015,Crimes Against Children,1348,97584,Yearly Summary Report
+2015,Criminal Forums,62,55996,Yearly Summary Report
+2015,Corporate Data Breach,2499,38800430,Yearly Summary Report
+2015,Personal Data Breach,19632,43477526,Yearly Summary Report
+2015,Denial of Service,1020,2770978,Yearly Summary Report
+2015,Employment,18758,33890824,Yearly Summary Report
+2015,Extortion,17804,14799705,Yearly Summary Report
+2015,Gambling,131,955360,Yearly Summary Report
+2015,Government Impersonation,11832,12090159,Yearly Summary Report
+2015,Hacktivist,211,171601,Yearly Summary Report
+2015,Harassment/Threats of Violence,14812,13126123,Yearly Summary Report
+2015,Health Care Related,465,906343,Yearly Summary Report
+2015,Identity Theft,21949,57294589,Yearly Summary Report
+2015,Investment,1806,119177899,Yearly Summary Report
+2015,IPR/Copyright and Counterfeit,1931,7230803,Yearly Summary Report
+2015,Lottery/Sweepstakes,5324,19365223,Yearly Summary Report
+2015,Malware/Scareware,3294,2912628,Yearly Summary Report
+2015,Misrepresentation,5458,17974014,Yearly Summary Report
+2015,No Lead Value,12187,0,Yearly Summary Report
+2015,Non-Payment/Non-Delivery,67375,121329122,Yearly Summary Report
+2015,Other,19963,56153977,Yearly Summary Report
+2015,Overpayment,30855,49217119,Yearly Summary Report
+2015,Phishing/Vishing/Smishing/Pharming,16594,8174316,Yearly Summary Report
+2015,Ransomware,2453,1620814,Yearly Summary Report
+2015,Real Estate/Rental,11562,41417647,Yearly Summary Report
+2015,Re-shipping,1073,3831957,Yearly Summary Report
+2015,Terrorism,361,65789,Yearly Summary Report
+2015,Virus,971,1230812,Yearly Summary Report
