@@ -1,9 +1,7 @@
 # Cybersecurity Insights | Semester Project | Fall 2023 | UCLA
 
 ## Overview
-This project, conducted as part of a semester-long effort at UCLA, focuses on the analysis and visualization of international cybersecurity trends spanning the years 2006-2023. This project was developed by me [Alley Hernandez](https://github.com/alleyhernandez) and [Allison Bajo](https://github.com/allisonbajo) for our Exploratory Data Analysis course at UCLA.
-
-Utilizing a comprehensive data-driven approach, the project leverages Python and R for processing datasets obtained from the Center for Strategic and International Studies (CSIS), the Internet Crime Complaint Center (IC3), and the Canadian Anti-Fraud Centre (CAFC).
+This project, conducted as part of a semester-long effort at UCLA, focuses on the analysis and visualization of international cybersecurity trends spanning the years 2006-2023. This project was developed by me [Alley Hernandez](https://github.com/alleyhernandez) and [Allison Bajo](https://github.com/allisonbajo) for our Exploratory Data Analysis course at UCLA. Utilizing a comprehensive data-driven approach, the project leverages Python and R for processing datasets obtained from the Center for Strategic and International Studies (CSIS), the Internet Crime Complaint Center (IC3), and the Canadian Anti-Fraud Centre (CAFC).
 
 The core objective is to uncover patterns and insights into the evolving landscape of cyber threats, with a particular emphasis on phishing attacks, which have been identified as the predominant method of cyber-attacks over the years. Our analysis reveals not only the annual increase in cyber-attack incidents but also highlights significant regional threat differences, especially between the U.S. and Canada. This project serves as a critical resource for understanding the dynamic nature of cyber threats across borders.
 
@@ -34,7 +32,7 @@ Ensure you have Python and R installed on your system. The project uses several 
 ```bash
 pip install pandas matplotlib seaborn
 ```
-###R
+### R
 
 ```bash
 install.packages("ggplot2")
