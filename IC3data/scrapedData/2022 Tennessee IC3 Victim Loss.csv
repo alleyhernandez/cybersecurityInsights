@@ -1,0 +1,31 @@
+,Crime Type,Loss Amount
+0,Advanced Fee,"$1,807,140"
+1,Malware,"$705,506"
+2,BEC,"$46,637,795"
+3,NCDF,$0
+4,Botnet,$643
+5,NTOC,$0
+6,Confidence/Romance,"$8,892,488"
+7,No Lead Value,$0
+8,Credit Card/Check Fraud,"$3,879,384"
+9,Non-payment/Non-Delivery,"$3,830,326"
+10,Crimes Against Children,"$2,681"
+11,Other,"$1,291,750"
+12,Data Breach,"$1,499,907"
+13,Overpayment,"$669,941"
+14,Employment,"$536,631"
+15,Personal Data Breach,"$6,376,097"
+16,Extortion,"$595,359"
+17,Phishing,"$279,475"
+18,Government Impersonation,"$2,305,283"
+19,Ransomware,"$110,000"
+20,Harassment/Stalking,"$1,422"
+21,Real Estate,"$7,314,288"
+22,IPR/Copyright and Counterfeit,"$1,322"
+23,SIM Swap,"$630,219"
+24,Identity Theft,"$2,057,849"
+25,Spoofing,"$517,094"
+26,Investment,"$20,869,755"
+27,Tech Support,"$12,760,219"
+28,Lottery/Sweepstakes/Inheritance,"$2,235,665"
+29,Threats of Violence,"$1,100"
